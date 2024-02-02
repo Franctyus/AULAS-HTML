@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header></header>
+        <h1>Receitas da Vovó</h1><br>
+        <h3><b>Bombom de Morango</b></h3>
+        <h5>Dissolva o amido de milho no leite, junte a baunilha, as gemas...</h5><br>
+        <h3><b></b>Churros Caseiro</h3>
+        <h5>Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina...</h5><br>
+        <h3><b>Sonho de Creme</b></h3>
+        <h5>Coloque quase toda a farinha em uma tigela grande...</h5>
+        <br><br><br><br><br>
+        <h6><i></i>Feito por Francis Beck</h6>
+
+</body>
+</html>
